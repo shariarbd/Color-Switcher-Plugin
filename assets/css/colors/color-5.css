@@ -1,0 +1,21 @@
+h2 span,
+figure .item-link a.project-link:hover,
+figure .item-link a.zoom-link:hover {
+	color: #eeb313;
+} 
+
+.isotope-filters .btn.active, 
+.isotope-filters .btn:hover, 
+.isotope-filters .bg-btn {
+	background-color: #eeb313;
+} 
+
+.isotope-filters .btn.active, 
+.isotope-filters .btn:hover, 
+.isotope-filters .bg-btn{
+	border-color: #eeb313;
+} 
+ 
+.portfolio-item figure:hover:after {
+	background-color: rgba(238, 179, 19, 0.71);
+}
